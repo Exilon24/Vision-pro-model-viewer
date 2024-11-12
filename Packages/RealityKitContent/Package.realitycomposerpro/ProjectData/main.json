@@ -1,0 +1,19 @@
+{
+  "pathsToIds" : {
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "440DE5B4-E4E4-459B-AABF-9ACE96319272",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/procedural_sphere_grid.usda" : "34C460AE-CA1B-4348-BD05-621ACBDFFE97",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled Scene.usda" : "03E02005-EFA6-48D6-8A76-05B2822A74E9",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/3dPrinter.usdz" : "C3924760-4C80-4B35-9BB7-290E4028C42C",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/filmCam.usdz" : "C180EE8F-3798-44C2-80E2-803470F1ACCA",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "FBD8436F-6B8B-4B82-99B5-995D538B4704",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/hololens.usdz" : "83F1FF6F-660F-4539-8102-7AFC1EBE8F12",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Materials\/GridMaterial.usda" : "6791CE00-93F7-4C69-86B6-8A619820E471",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/orb.usda" : "ECC86263-CF70-4E2E-8FA0-E9CC5F9A42F2",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/procedural_sphere_grid.usda" : "1CBF3893-ABFD-408C-8B91-045BFD257808",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Quest.usda" : "4340954F-466C-4E8F-9109-B9E4D6B08810",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Quest.usdz" : "612F1906-D26E-4FC3-A4CB-3AB43B12F7C3",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/quest2.usdz" : "2383A1B6-6A6E-4353-A009-D09E6651119D",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "26DBAE76-5DD8-47B6-A085-1B4ADA111097"
+  }
+}
